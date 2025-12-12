@@ -60,7 +60,8 @@ const softlocked = {
 - 🎮 Gaming enthusiast - Hollow Knight: Silksong fan and AI explorer
 - 💡 Believer in continuous learning and growth
 - 🔥 Driven by curiosity and creativity
-- ☕ Fueled by caffeine and code
+- 🚫☕ Fueled by code (I don't drink coffee!)
+- 🐧 Proud Linux user
 
 ## 💭 Daily Motivation
 
