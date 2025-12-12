@@ -1,46 +1,77 @@
-# Hi there, I'm SoftLocked! 👋
+<div align="center">
 
-## About Me
+# 👋 Hey, I'm SoftLocked!
 
-I'm a passionate developer with a love for building anything. I enjoy connecting code, ideas, and people to build innovative [...]
+### 💻 Developer | 🎮 Gamer | 🚀 Innovator
 
-## 🛠️ Technologies & Tools
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:legolightning71@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SoftLockedLive)
+
+</div>
+
+---
+
+## 🌟 About Me
+
+I'm a passionate developer with a love for building anything and everything. I thrive on connecting code, ideas, and people to create innovative solutions that make a difference.
+
+```javascript
+const softlocked = {
+    code: ["Python", "Java", "JavaScript"],
+    tools: ["VS Code", "Git", "GitHub"],
+    currentFocus: "Building exciting projects",
+    philosophy: "Learn anything through hard work and dedication"
+};
+```
+
+## 🛠️ Tech Stack
+
+<div align="center">
 
 ### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🚀 What I'm Currently Working On
+</div>
 
-- 🔭 Building exciting projects that brings me and others joy
-- 🌱 Learning new technologies and expanding my skill set
-- 👩‍🚀 Looking to expand on knowledge on anything
-- 📫 Always open to interesting conversations and opportunities
+## 🚀 Current Focus
 
-## 📈 Contribution Graph
+- 🔨 Building exciting projects that bring joy to me and others
+- 📚 Learning new technologies and expanding my skill set
+- 🌐 Exploring innovative solutions and cutting-edge tech
+- 💬 Always open to interesting conversations and opportunities
 
-![SoftLocked's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LegoLightning&theme=react-dark)
+## 📊 GitHub Activity
 
-## 🎯 Fun Facts
+<div align="center">
 
-- 🎮 When I'm not coding, you can find me playing Silksong or using AI 😝
-- 🌟 I believe I that you can learn anything through hard work and dedication
-- 📚 Always learning something new - currently diving deeper into [your current learning focus]
+![SoftLocked's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SoftLockedLive&theme=react-dark)
 
-## 📫 How to Reach Me
+</div>
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:legolightning71@gmail.com)
+## ⚡ Fun Facts
 
-## 💭 Quote
+- 🎮 Gaming enthusiast - Silksong player and AI explorer
+- 💡 Believer in continuous learning and growth
+- 🔥 Driven by curiosity and creativity
+- ☕ Fueled by caffeine and code
+
+## 💭 Daily Motivation
 
 > "Try your best at trying your best." - Peyton Overall
 
 ---
 
-⭐️ From [LegoLightning](https://github.com/LegoLightning)
+<div align="center">
+
+**Thanks for stopping by! Let's build something amazing together 🚀**
+
+⭐️ From [SoftLocked](https://github.com/SoftLockedLive)
+
+</div>
