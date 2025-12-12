@@ -1,4 +1,4 @@
-# Hi there, I'm LegoLightning! 👋
+# Hi there, I'm SoftLocked! 👋
 
 ## About Me
 
@@ -25,11 +25,10 @@ I'm a passionate developer with a love for building anything. I enjoy connecting
 
 ## 📈 Contribution Graph
 
-![LegoLightning's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LegoLightning&theme=react-dark)
+![SoftLocked's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LegoLightning&theme=react-dark)
 
 ## 🎯 Fun Facts
 
-- ⚡ Fun fact: I created my username when I was 8 because I loved Cars like Lightning McQueen and LEGOS
 - 🎮 When I'm not coding, you can find me playing Silksong or using AI 😝
 - 🌟 I believe I that you can learn anything through hard work and dedication
 - 📚 Always learning something new - currently diving deeper into [your current learning focus]
