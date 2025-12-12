@@ -42,7 +42,8 @@ const softlocked = {
 
 ## 🚀 Current Focus
 
-- 🔨 Building exciting projects that bring joy to me and others
+- 🐧 Learning Linux and overcoming my fear of the terminal
+- 🔨 Building exciting projects for me and my friends
 - 📚 Learning new technologies and expanding my skill set
 - 🌐 Exploring innovative solutions and cutting-edge tech
 - 💬 Always open to interesting conversations and opportunities
