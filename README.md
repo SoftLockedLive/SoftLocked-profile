@@ -62,7 +62,7 @@ const softlocked = {
 - 💡 Believer in continuous learning and growth
 - 🔥 Driven by curiosity and creativity
 - 🚫☕ Fueled by code (I don't drink coffee!)
-- 🐧 Proud Linux user
+- 🐧 Proud Linux user (I still shower though)
 
 ## 💭 Daily Motivation
 
