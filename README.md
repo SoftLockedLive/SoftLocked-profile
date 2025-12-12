@@ -57,7 +57,7 @@ const softlocked = {
 
 ## ⚡ Fun Facts
 
-- 🎮 Gaming enthusiast - Silksong player and AI explorer
+- 🎮 Gaming enthusiast - Hollow Knight: Silksong fan and AI explorer
 - 💡 Believer in continuous learning and growth
 - 🔥 Driven by curiosity and creativity
 - ☕ Fueled by caffeine and code
