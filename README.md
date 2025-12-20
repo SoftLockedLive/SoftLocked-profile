@@ -70,6 +70,19 @@ const softlocked = {
 
 ---
 
+💻 GitHub Bio
+
+SoftLockedLive
+Gaming, streaming, and coding projects.
+
+🔴 Twitch: https://twitch.tv/softlockedlive
+
+📺 YouTube: https://youtube.com/@SoftLockedLive
+
+💬 Discord: https://discord.com/users/548268299205738497
+
+✉️ legolightning71@gmail.com
+
 <div align="center">
 
 **Thanks for stopping by! Let's build something amazing together 🚀**
