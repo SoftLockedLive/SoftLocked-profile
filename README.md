@@ -7,7 +7,7 @@
 
 Software, Linux, self-hosting, games, and whatever else catches my interest.
 
-[Website](https://softlockedlive.com) · [Twitch](https://twitch.tv/softlockedlive) · [YouTube](https://youtube.com/@SoftLockedLive) · [Discord](https://discord.com/users/548268299205738497)
+[Website](https://softlockedlive.com) · [Twitch](https://twitch.tv/softlockedlive) · [YouTube](https://youtube.com/@SoftLockedLive)
 
 </div>
 
