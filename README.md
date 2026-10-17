@@ -1,92 +1,71 @@
+
 <div align="center">
 
-# 👋 Hey, I'm SoftLocked!
+# Hey, I'm SoftLocked.
 
-### 💻 Developer | 🎮 Gamer | 🚀 Innovator
+**I build things, break things, and occasionally fix them.**
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:legolightning71@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SoftLockedLive)
+Software, Linux, self-hosting, games, and whatever else catches my interest.
+
+[Website](https://softlockedlive.com) · [Twitch](https://twitch.tv/softlockedlive) · [YouTube](https://youtube.com/@SoftLockedLive) · [Discord](https://discord.com/users/548268299205738497)
 
 </div>
 
 ---
 
-## 🌟 About Me
+### ~/about
 
-I'm a passionate developer with a love for building anything and everything. I thrive on connecting code, ideas, and people to create innovative solutions that make a difference.
+I'm just someone who likes figuring out how things work and seeing what I can make with them.
 
-```javascript
-const softlocked = {
-    code: ["Python", "Java", "JavaScript"],
-    tools: ["VS Code", "Git", "GitHub"],
-    currentFocus: "Building exciting projects",
-    philosophy: "Learn anything through hard work and dedication"
-};
-```
+Most of my projects start with *"I wonder if I could..."* and go from there.
 
-## 🛠️ Tech Stack
+I enjoy programming, messing with Linux, running my own servers, and experimenting with physics and technology.
+
+### ~/projects
+
+| Project | Description |
+| :--- | :--- |
+| [**SoftLocked**](https://softlockedlive.com) | My corner of the internet. Games, projects, experiments, and whatever else I feel like making. |
+| [**LiftFlow**](https://github.com/SoftLockedLive/LiftFlow) | A workout tracking and planning app. |
+| **Home Lab** | Self-hosting services, managing a Linux server, and learning as I go. |
+
+### ~/toolbox
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-11151B?style=flat-square&logo=python&logoColor=38D9E6)
+![Java](https://img.shields.io/badge/Java-11151B?style=flat-square&logo=openjdk&logoColor=38D9E6)
+![JavaScript](https://img.shields.io/badge/JavaScript-11151B?style=flat-square&logo=javascript&logoColor=38D9E6)
+
+**Tools & Technologies**
+
+![Linux](https://img.shields.io/badge/Linux-11151B?style=flat-square&logo=linux&logoColor=38D9E6)
+![Git](https://img.shields.io/badge/Git-11151B?style=flat-square&logo=git&logoColor=38D9E6)
+![Docker](https://img.shields.io/badge/Docker-11151B?style=flat-square&logo=docker&logoColor=38D9E6)
+![Next.js](https://img.shields.io/badge/Next.js-11151B?style=flat-square&logo=nextdotjs&logoColor=38D9E6)
+![VS Code](https://img.shields.io/badge/VS_Code-11151B?style=flat-square&logo=visualstudiocode&logoColor=38D9E6)
+
+### ~/currently
+
+- Building out [softlockedlive.com](https://softlockedlive.com)
+- Working on [LiftFlow](https://github.com/SoftLockedLive/LiftFlow)
+- Experimenting with Linux, servers, and self-hosted services
+- Learning more about physics, math, and software development
+
+### ~/activity
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SoftLockedLive&theme=react-dark&hide_border=true&bg_color=0D1117&color=38D9E6&line=38D9E6&point=F5C842)
 
 </div>
-
-## 🚀 Current Focus
-
-- 🐧 Learning Linux and overcoming my fear of the terminal
-- 🔨 Building exciting projects for me and my friends
-- 📚 Learning new technologies and expanding my skill set
-- 🌐 Exploring innovative solutions and cutting-edge tech
-- 💬 Always open to interesting conversations and opportunities
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-![SoftLocked's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SoftLockedLive&theme=react-dark)
-
-</div>
-
-## ⚡ Fun Facts
-
-- 🎮 Gaming enthusiast - Hollow Knight: Silksong fan and AI explorer
-- 💡 Believer in continuous learning and growth
-- 🔥 Driven by curiosity and creativity
-- 🚫☕ Fueled by code (I don't drink coffee!)
-- 🐧 Proud Linux user (I still shower though)
-
-## 💭 Daily Motivation
-
-> "Try your best at trying your best." - Peyton Overall
 
 ---
 
-💻 GitHub Bio
-
-SoftLockedLive
-Gaming, streaming, and coding projects.
-
-🔴 Twitch: https://twitch.tv/softlockedlive
-
-📺 YouTube: https://youtube.com/@SoftLockedLive
-
-💬 Discord: https://discord.com/users/548268299205738497
-
-✉️ legolightning71@gmail.com
-
 <div align="center">
 
-**Thanks for stopping by! Let's build something amazing together 🚀**
+**[softlockedlive.com](https://softlockedlive.com)**
 
-⭐️ From [SoftLocked](https://github.com/SoftLockedLive)
+<sub>Made for the fun of it.</sub>
 
 </div>
